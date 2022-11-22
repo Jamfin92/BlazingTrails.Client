@@ -1,0 +1,6 @@
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Server.csproj.AssemblyReference.cache
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Server.AssemblyInfoInputs.cache
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Server.AssemblyInfo.cs
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Server.csproj.CoreCompileInputs.cache
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Server.MvcApplicationPartsAssemblyInfo.cache

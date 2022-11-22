@@ -1,0 +1,1638 @@
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\BlazingTrails.Client.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\BlazingTrails.Client.pdb
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\BlazingTrails.Client.pdb.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\BlazingTrails.Client.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\BlazingTrails.Client.staticwebassets.runtime.json
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\BlazingTrails.Client.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\BlazingTrails.Client.pdb
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.CSharp.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.AppContext.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Buffers.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Collections.Concurrent.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Collections.Specialized.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Collections.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Configuration.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Console.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Core.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Data.Common.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Data.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.Process.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Drawing.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Drawing.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Globalization.Calendars.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Globalization.Extensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Globalization.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Compression.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.FileSystem.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Pipes.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Linq.Expressions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Linq.Parallel.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Linq.Queryable.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Linq.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Memory.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Http.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.HttpListener.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Mail.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.NameResolution.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Ping.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Quic.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Requests.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Security.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.ServicePoint.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Sockets.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.WebClient.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.WebProxy.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.WebSockets.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Numerics.Vectors.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Numerics.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ObjectModel.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.Uri.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.Xml.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Emit.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Extensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Metadata.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Resources.Reader.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Resources.Writer.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Extensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Handles.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Loader.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Numerics.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Serialization.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.AccessControl.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Claims.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Principal.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.SecureString.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ServiceModel.Web.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ServiceProcess.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.Encoding.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Overlapped.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Tasks.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Thread.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Timer.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Transactions.Local.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Transactions.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ValueTuple.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Web.HttpUtility.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Web.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Windows.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.Linq.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.Serialization.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.XDocument.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.XPath.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\WindowsBase.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\mscorlib.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\netstandard.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.CoreLib.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\dotnet.js
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\dotnet.timezones.blat
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\dotnet.wasm
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\icudt.dat
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\icudt_CJK.dat
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\icudt_EFIGS.dat
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.csproj.AssemblyReference.cache
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.AssemblyInfoInputs.cache
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.AssemblyInfo.cs
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.csproj.CoreCompileInputs.cache
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\uyCJSh+9.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\v7GmaAa0.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\1c2adGtG.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Na+WxTWV.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\AtwEaReU.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\ElhsEqOI.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\rnIZChcO.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\XYJPvEmy.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Alb57Byj.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Ia94PLbS.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Uv4Q6+rb.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\a7wFzDPb.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\v3ovu1HR.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\dkt0w9rJ.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\JaFkZdPz.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\7jE73FOo.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\hllJUZ5V.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\UvPHBX0+.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\9XS4TQ7R.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\MF+9th55.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Z4lIZdbO.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\N66otkNd.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\dsAQS9wl.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\CRPGPwcx.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\bppOwbxj.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+XQ0YQm4.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\blazor.boot.json
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets\msbuild.BlazingTrails.Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazingTrails.Client.props
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazingTrails.Client.props
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazingTrails.Client.props
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\scopedcss\bundle\BlazingTrails.Client.styles.css
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.csproj.CopyComplete
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\refint\BlazingTrails.Client.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.pdb
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\ref\BlazingTrails.Client.dll
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.11.692g1zjc6i.js
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.11.692g1zjc6i.js.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\mjr9o6b6.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\h7469B4c.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\AFnBtMEL.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\PpO3WKkk.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\qdKNPeFX.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\BDxwC0Aj.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\2BMSUs3l.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\vSkdMBz2.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\8BdngbAh.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\zb+fMfRq.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\DxIPKZWq.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\savEnRUd.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\yM+dY6Vd.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\atU20OmR.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\DSeQiY26.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\UDcq9PWT.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Kz0q0Bat.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\mp8wstKx.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Y53TRXQe.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\C74ixK+j.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\8BGKiyZy.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\LGBz3LRk.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\PFKJyZhd.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\pBeqXjnc.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\LRUX5AJR.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\T+TE00TV.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\W4yJmVoS.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\pJM6nHzO.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\pTZRf3+g.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\arV0ZPeh.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\GRe0Qj9C.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\2ZXXs+JB.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\iSZJAqWX.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+46eBve4.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\1ThQLP1s.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\2O1CxtxO.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\jqJjf0he.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\SkTPlva1.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\F8q2V+7c.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\vy0C4TH2.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\zi7JdOj7.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\oicSqn0F.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\9Q382Nwr.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\CA6MjUt2.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\G0X8f9am.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\mcJYCc5H.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\4KYiAlpu.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\9UDO9SiY.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\vwCdHfCj.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\FAeDMeDg.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Rlw0jVid.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\kr5yvsU+.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\n3UlFHoh.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\w73YVBfw.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Ye+ZxtGi.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\fNZSeBG7.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\altfL4T7.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\mtCYHkUH.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\dG1qcvoV.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\58W8lakL.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\eImPphZC.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\jwCvgNP3.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\CYPCkJsB.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Ebpil3UK.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+TViuqMm.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\bKLQ0BqV.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\BjkIPKub.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Pp+o+jWD.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Q4wGDEzU.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Re2gwsrG.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\YcKaRubZ.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\5uR38K4r.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\iVkjKd8V.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\hzhFn8qB.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\OTZMcuVg.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\DhEMBI5z.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\W3YfYjFa.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\NRcZZs2U.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\K3CSGeWB.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\GEwgEjmq.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\wokGZHE+.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\IGQgWQWQ.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\q4AH4Dx4.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\kC172oYy.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\kNe6I+An.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\ZpJltd6H.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\fG4SrKZK.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\V5aOB8+f.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\ObtIBDnE.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\CKOdWNZG.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\SkqMTD93.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\UBD+6JF8.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\INS++u1l.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\XmHwAdpO.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\HChvvuMy.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\w9bU9MCc.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\NRoN3CMq.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\UgHSP8WI.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\wg8WD4ml.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Nq5eVjTW.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\mcMkZb72.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\OemVK5YX.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\3jBhxxqW.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\fzSwpJPc.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\lxBVDFfg.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Kb6C8tWi.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\foTQumho.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\w2likmRj.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\7L6MDgGV.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Q+YWQJBY.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\tEc10+1i.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\zVHsb7F1.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\gP+E1n0M.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\ySRcYqSf.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\rJ8CyTTf.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\UAOgqYFg.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\KyUigbPm.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\KxmYtM+u.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\xTtZkk+K.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\4QFnjebZ.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\qX0E+Odb.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\2TaS88n5.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\n4N4vb9X.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\C2q8wOaI.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\JN+JUzjW.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\tqrWtuHt.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\7uPFSOhP.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\bX2GUB7c.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\QasPOTnA.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\kn9+nlaF.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\iNNq3vJA.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\6r8AiW2h.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\U60c3mXo.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\TRUC+jR+.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\09UlqQuL.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\iA8sYYOf.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+Nv7gUPd.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\z0Yscl42.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\fTVOBYwq.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\css3dSWE.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\MnM+OY79.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\b0sBVMd7.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\chzyrgYM.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+Qh7H1S3.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\VUijoS5a.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\BfqqrWAQ.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\m7q+xW7Q.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\15uvm9rM.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Of+qKno+.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\yBD+yl46.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\iK+6cenu.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\eMo373uU.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\K2dfxTtM.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\xTRuUUJr.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\xLejKvbX.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\waeOY5bi.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\l7jNft0j.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\9v59XHoE.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\xC0JKaEa.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+y5jJXqh.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\jNCC4P8j.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\4lmhu9Hz.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\BUtZj+FO.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\r6gO+bqX.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\MFcLqWA9.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\v0IF0f3c.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\muCVDJEl.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\sBW9apXV.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\dg7hRg1v.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\LTjvJQ+s.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\zwb+tgwO.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\5ggpfVoH.gz
+C:\Users\James Finnerty\source\repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\hPYixZ3E.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.11.692g1zjc6i.js
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.11.692g1zjc6i.js.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\BlazingTrails.Client.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\BlazingTrails.Client.pdb
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\BlazingTrails.Client.dll.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\wwwroot\_framework\BlazingTrails.Client.pdb.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\BlazingTrails.Client.staticwebassets.runtime.json
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\BlazingTrails.Client.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\BlazingTrails.Client.pdb
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.CSharp.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.AppContext.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Buffers.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Collections.Concurrent.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Collections.Specialized.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Collections.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ComponentModel.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Configuration.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Console.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Core.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Data.Common.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Data.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.Process.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Drawing.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Drawing.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Globalization.Calendars.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Globalization.Extensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Globalization.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Compression.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.FileSystem.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.Pipes.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.IO.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Linq.Expressions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Linq.Parallel.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Linq.Queryable.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Linq.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Memory.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Http.Json.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Http.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.HttpListener.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Mail.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.NameResolution.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Ping.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Quic.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Requests.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Security.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.ServicePoint.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.Sockets.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.WebClient.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.WebProxy.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.WebSockets.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Net.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Numerics.Vectors.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Numerics.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ObjectModel.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.Uri.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.Xml.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Emit.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Extensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Metadata.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Reflection.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Resources.Reader.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Resources.Writer.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Extensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Handles.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Loader.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Numerics.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.Serialization.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Runtime.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.AccessControl.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Claims.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.Principal.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.SecureString.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Security.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ServiceModel.Web.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ServiceProcess.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.Encoding.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.Json.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Overlapped.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Tasks.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Thread.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.Timer.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Threading.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Transactions.Local.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Transactions.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.ValueTuple.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Web.HttpUtility.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Web.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Windows.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.Linq.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.Serialization.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.XDocument.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.XPath.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Xml.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\WindowsBase.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\mscorlib.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\netstandard.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\System.Private.CoreLib.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\dotnet.js
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\dotnet.timezones.blat
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\dotnet.wasm
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\icudt.dat
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\icudt_CJK.dat
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\icudt_EFIGS.dat
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\icudt_no_CJK.dat
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.csproj.AssemblyReference.cache
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.AssemblyInfoInputs.cache
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.AssemblyInfo.cs
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.csproj.CoreCompileInputs.cache
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\uyCJSh+9.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\v7GmaAa0.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\1c2adGtG.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Na+WxTWV.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\AtwEaReU.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\ElhsEqOI.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\rnIZChcO.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\XYJPvEmy.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Alb57Byj.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Ia94PLbS.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Uv4Q6+rb.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\a7wFzDPb.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\v3ovu1HR.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\dkt0w9rJ.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\JaFkZdPz.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\7jE73FOo.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\hllJUZ5V.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\UvPHBX0+.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\9XS4TQ7R.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\MF+9th55.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Z4lIZdbO.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\N66otkNd.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\dsAQS9wl.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\mjr9o6b6.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\h7469B4c.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\AFnBtMEL.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\PpO3WKkk.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\qdKNPeFX.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\BDxwC0Aj.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\2BMSUs3l.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\vSkdMBz2.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\8BdngbAh.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\zb+fMfRq.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\DxIPKZWq.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\savEnRUd.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\yM+dY6Vd.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\atU20OmR.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\DSeQiY26.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\UDcq9PWT.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Kz0q0Bat.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\mp8wstKx.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Y53TRXQe.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\C74ixK+j.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\8BGKiyZy.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\LGBz3LRk.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\PFKJyZhd.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\pBeqXjnc.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\LRUX5AJR.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\T+TE00TV.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\W4yJmVoS.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\pJM6nHzO.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\pTZRf3+g.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\arV0ZPeh.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\GRe0Qj9C.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\2ZXXs+JB.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\iSZJAqWX.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+46eBve4.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\1ThQLP1s.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\2O1CxtxO.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\jqJjf0he.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\SkTPlva1.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\F8q2V+7c.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\vy0C4TH2.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\zi7JdOj7.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\oicSqn0F.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\9Q382Nwr.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\CA6MjUt2.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\G0X8f9am.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\mcJYCc5H.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\4KYiAlpu.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\9UDO9SiY.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\vwCdHfCj.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\FAeDMeDg.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Rlw0jVid.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\kr5yvsU+.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\n3UlFHoh.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\w73YVBfw.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Ye+ZxtGi.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\fNZSeBG7.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\altfL4T7.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\mtCYHkUH.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\dG1qcvoV.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\58W8lakL.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\eImPphZC.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\jwCvgNP3.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\CYPCkJsB.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Ebpil3UK.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+TViuqMm.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\bKLQ0BqV.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\BjkIPKub.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Pp+o+jWD.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Q4wGDEzU.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Re2gwsrG.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\YcKaRubZ.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\5uR38K4r.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\iVkjKd8V.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\hzhFn8qB.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\OTZMcuVg.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\DhEMBI5z.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\W3YfYjFa.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\NRcZZs2U.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\K3CSGeWB.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\GEwgEjmq.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\wokGZHE+.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\IGQgWQWQ.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\q4AH4Dx4.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\kC172oYy.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\kNe6I+An.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\ZpJltd6H.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\fG4SrKZK.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\V5aOB8+f.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\ObtIBDnE.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\CKOdWNZG.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\SkqMTD93.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\UBD+6JF8.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\INS++u1l.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\XmHwAdpO.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\HChvvuMy.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\w9bU9MCc.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\NRoN3CMq.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\UgHSP8WI.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\wg8WD4ml.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Nq5eVjTW.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\mcMkZb72.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\OemVK5YX.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\3jBhxxqW.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\fzSwpJPc.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\lxBVDFfg.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Kb6C8tWi.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\foTQumho.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\w2likmRj.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\7L6MDgGV.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Q+YWQJBY.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\tEc10+1i.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\zVHsb7F1.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\gP+E1n0M.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\ySRcYqSf.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\rJ8CyTTf.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\UAOgqYFg.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\KyUigbPm.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\KxmYtM+u.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\xTtZkk+K.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\4QFnjebZ.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\qX0E+Odb.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\2TaS88n5.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\n4N4vb9X.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\C2q8wOaI.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\JN+JUzjW.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\tqrWtuHt.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\7uPFSOhP.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\bX2GUB7c.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\QasPOTnA.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\kn9+nlaF.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\iNNq3vJA.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\6r8AiW2h.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\U60c3mXo.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\TRUC+jR+.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\09UlqQuL.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\iA8sYYOf.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+Nv7gUPd.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\z0Yscl42.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\fTVOBYwq.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\css3dSWE.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\MnM+OY79.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\b0sBVMd7.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\chzyrgYM.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+Qh7H1S3.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\VUijoS5a.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\BfqqrWAQ.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\m7q+xW7Q.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\15uvm9rM.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\Of+qKno+.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\yBD+yl46.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\iK+6cenu.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\eMo373uU.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\K2dfxTtM.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\xTRuUUJr.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\xLejKvbX.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\waeOY5bi.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\l7jNft0j.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\9v59XHoE.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\xC0JKaEa.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+y5jJXqh.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\jNCC4P8j.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\4lmhu9Hz.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\BUtZj+FO.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\r6gO+bqX.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\MFcLqWA9.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\v0IF0f3c.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\muCVDJEl.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\sBW9apXV.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\dg7hRg1v.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\LTjvJQ+s.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\zwb+tgwO.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\5ggpfVoH.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\hPYixZ3E.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\OyaC4sc8.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\QmsTzmBa.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\build-gz\+XQ0YQm4.gz
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\blazor.boot.json
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets\msbuild.BlazingTrails.Client.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazingTrails.Client.props
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazingTrails.Client.props
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazingTrails.Client.props
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets.development.json
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\scopedcss\bundle\BlazingTrails.Client.styles.css
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.csproj.CopyComplete
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\refint\BlazingTrails.Client.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\BlazingTrails.Client.pdb
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\ref\BlazingTrails.Client.dll
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\package-lock.json
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\bin\Debug\net6.0\package.json
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\scopedcss\Features\Home\TrailDetails.razor.rz.scp.css
+D:\Repos\BlazingTrails.Client\BlazingTrails.Client\obj\Debug\net6.0\scopedcss\projectbundle\BlazingTrails.Client.bundle.scp.css
